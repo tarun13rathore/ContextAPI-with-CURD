@@ -6,9 +6,9 @@ const initialState = {
   employees: [
     {
       id: 1,
-      name: "Sammy",
-      location: "DigitalOcean",
-      designation: "Shark",
+      name: "Tarun",
+      location: "Ghaziabad",
+      designation: "React js developer",
     },
   ],
 };
